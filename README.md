@@ -1,1 +1,3 @@
 # Gitcrash
+
+Beginner of Gitcrash
